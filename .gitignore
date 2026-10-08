@@ -1,0 +1,14 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+build/
+.DS_Store
+/captures
+
+# Ключ подписи релизов — никогда не коммитить
+/keystore/
+/keystore.properties
+*.jks
+*.keystore
